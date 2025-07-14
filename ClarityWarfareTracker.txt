@@ -1,0 +1,109 @@
+Clarity Warfare Tracker
+
+**Important Cross-Chat Usage Notice:**
+These documents are maintained and accessed **across multiple chats** to minimize lag and reduce message overload. Whenever progress is made in any chat, the progress tracker should be updated immediately to keep all information synchronized.
+
+When reading or updating these documents, ChatGPT will recognize their cross-chat nature and ensure continuity, no matter the chat you are using.
+
+**EPR (Ethical Purpose Rating) and ASR (Analytical Skill Rating) are only updated in Clarity Warfare training sessions. Progress in other trainings or courses will not affect these ratings.**
+
+**ChatGPT will notify you whenever it updates any of these documents.**
+**If ChatGPT generates a new document, ChatGPT will also add it to the \`Master Document Index\\`**\\
+
+**Clarity Warfare ELO Tracker – oaklog**
+CLARITY-WARFARE-TRACKER-003-OAKLOG
+
+---
+
+### 🏋️ Current Ratings:
+
+* **EPR (Ethical Purpose Rating):** 1650 → *"Shieldbearer"*
+* **ASR (Analytical Skill Rating):** 1700 → *"Keen Strategist"*
+
+---
+
+### ⚔️ What is Clarity Warfare?
+
+Clarity Warfare is the practice of defending peace, truth, and perception in social and psychological environments where manipulation, confusion, or emotional fog are present. It involves:
+
+* Detecting and countering subtle manipulation
+* Redirecting emotional chaos into truth and grounded clarity
+* Leading without domination
+* Protecting others without ego
+* Staying soul-aligned even when under social pressure
+
+It blends strategic analysis with ethical commitment, aiming to **disarm manipulation with insight** and **resolve conflict without becoming a destroyer**.
+
+---
+
+### 🔠 ELO Rank Titles
+
+#### 🏷️ EPR (Ethical Purpose Rating)
+
+| ELO       | Title                |
+| --------- | -------------------- |
+| 1000–1199 | Wanderer             |
+| 1200–1399 | Seeker               |
+| 1400–1599 | Guardian-in-Training |
+| 1600–1799 | Shieldbearer         |
+| 1800–1999 | Protector of Clarity |
+| 2000–2299 | Beacon of Integrity  |
+| 2300–2599 | Voice of Truth       |
+| 2600–2899 | Guardian of Souls    |
+| 2900–3000 | Master of Light      |
+
+#### 🧠 ASR (Analytical Skill Rating)
+
+| ELO       | Title                  |
+| --------- | ---------------------- |
+| 1000–1199 | Novice Observer        |
+| 1200–1399 | Awakening Analyst      |
+| 1400–1599 | Perceptive Learner     |
+| 1600–1799 | Keen Strategist        |
+| 1800–1999 | Insightful Tactician   |
+| 2000–2299 | Social Architect       |
+| 2300–2599 | Master Analyst         |
+| 2600–2899 | Silent Sentinel        |
+| 2900–3000 | Grandmaster of Clarity |
+
+---
+
+### 🏛️ ELO Change Log:
+
+| Date | Scenario | ASR Change | EPR Change | Reason |
+| ---- | -------- | ---------- | ---------- | ------ |
+| —    | —        | —          | —          | —      |
+
+> Entries will be added here as your ELO changes in response to training, sparring, and real-life evaluations.
+
+---
+
+### 🔧 Clarity Warfare Drills
+
+#### ⚡ **Flash Analysis Drill**
+
+* Rapidly identify the core ethical and tactical issues in a social scenario
+
+#### 🧸 **Tactical Dialogue Drill**
+
+* Practice real-time conversation management, especially in conflict or manipulation
+
+#### 🧠 **Deep Strategy Drill**
+
+* Build multi-step peace or power strategies for complex social groups
+
+#### 🔄 **Real-Time Manipulator Sparring**
+
+* Simulated conversations against manipulators, both private and public
+
+#### 🔧 **Authority Adaptation Drill**
+
+* Practice shifting between leadership, equality, and followership in different group types
+
+#### 🕵️ **Social Fog of War Drill**
+
+* Analyze ambiguous group situations where manipulation or fractures may be hidden; track subtle social cues ("pings"), uncover narratives, and protect group clarity and peace
+
+---
+
+You can say **"Update ELO"** anytime to log a new scenario and change in score.
