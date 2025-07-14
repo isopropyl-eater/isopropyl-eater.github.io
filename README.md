@@ -1,1 +1,1 @@
-Info: [isopropyl_eater.github.io](https://isopropyl_eater.github.io)!
+Info: [isopropyl-eater.github.io](https://isopropyl-eater.github.io)!
