@@ -1,0 +1,132 @@
+Engineering Reality Unit1
+
+**Important Cross-Chat Usage Notice:**
+These documents are maintained and accessed **across multiple chats** to minimize lag and reduce message overload. Whenever progress is made in any chat, the progress tracker should be updated immediately to keep all information synchronized.
+
+When reading or updating these documents, ChatGPT will recognize their cross-chat nature and ensure continuity, no matter the chat you are using.
+
+**EPR (Ethical Purpose Rating) and ASR (Analytical Skill Rating) are only updated in Clarity Warfare training sessions. Progress in other trainings or courses will not affect these ratings.**
+
+**ChatGPT will notify you whenever it updates any of these documents.**
+**If ChatGPT generates a new document, ChatGPT will also add it to the \`Master Document Index\\`**
+
+**Engineering Reality I: Unit 1 - Matter & Charge**
+ENGR-REALITY-UNIT1-002-OAKLOG
+
+---
+
+### 🔬 Overview:
+
+This unit introduces the building blocks of matter: atoms, electrons, and ions. You'll learn how charge behaves, what makes substances interact, and why some materials conduct electricity while others don't. These foundations are key to chemistry, materials science, and all forms of physical engineering.
+
+---
+
+### 📊 Learning Objectives:
+
+By the end of this unit, you will be able to:
+
+* Describe the structure of an atom and explain what gives rise to electric charge
+* Explain the behavior of ions and how they form
+* Understand the basics of ionic vs covalent bonding
+* Describe how charge moves in different materials
+* Predict if a substance will dissolve or conduct electricity in water
+
+---
+
+### 📈 Core Topics:
+
+#### 1. Atom Structure
+
+* Proton (+), Neutron (0), Electron (-)
+* Nucleus vs Electron Cloud
+* Energy levels and orbitals
+
+#### 2. Ions and Charge
+
+* Cations and Anions
+* Gaining/losing electrons
+* Charge balance and ion stability
+
+#### 3. Bonding Types
+
+* Ionic bonds: metal + non-metal, full electron transfer
+* Covalent bonds: non-metal + non-metal, electron sharing
+
+#### 4. Conductivity & Ion Flow
+
+* Free electrons in metals (electron sea)
+* Ion mobility in solutions (electrolytes)
+* Why some substances conduct and others don’t
+
+#### 5. Solubility Logic
+
+* Polar vs non-polar substances
+* "Like dissolves like"
+* Why salt dissolves in water, but sand doesn't
+
+---
+
+### 💡 Activities + Mini-Labs
+
+#### ✅ **Lab 1: Salt vs. Sand Solubility Test**
+
+**Materials:** Table salt, fine sand, 2 clear cups, water, spoon
+
+* Mix 1 tsp of salt in one cup, sand in the other
+* Stir each and observe
+* Which one dissolves? Why?
+* Draw conclusions about ionic bonds vs covalent networks
+
+#### ✅ **Lab 2: Charge Demonstration with Balloon**
+
+**Materials:** Balloon, hair or wool, small paper bits
+
+* Rub the balloon on your hair
+* Bring it close to paper bits
+* Observe static attraction (electrostatic force)
+* What does this say about electrons?
+
+---
+
+### 🔮 Checkpoint Questions:
+
+Answer these before your quiz.
+
+1. What makes an atom become a cation or anion?
+2. Why do metals conduct electricity but ceramics usually don’t?
+3. What kind of bond forms between sodium and chlorine? Why?
+4. Why does salt dissolve in water, but sand does not?
+
+---
+
+### 🔹 Build Challenge:
+
+**"Salt Cell Battery"**
+
+* Use saltwater, copper wire, and aluminum foil to build a simple battery
+* Place the metals in the saltwater, not touching
+* Use a multimeter (if available) to test voltage
+* Research why charge is able to build up
+
+*Alternative: Sketch and label how it works*
+
+---
+
+### 🏋️ End-of-Unit Quiz (Given by ChatGPT)
+
+You will be quizzed after completing:
+
+* All topics above
+* Both mini-labs (or reports/notes if you can't physically do them)
+* The build challenge (or detailed sketch + explanation)
+
+---
+
+Once you pass the quiz, you will:
+✅ Unlock Unit 2: Reactions & Energy
+📉 Log your progress in your tracker
+🌟 Receive feedback + ASR/EPR-style score for your performance
+
+---
+
+Type "Begin Unit 1 Lesson 1" when you're ready to start!
