@@ -1,0 +1,44 @@
+Engineering Reality Tracker
+
+**Important Cross-Chat Usage Notice:**
+These documents are maintained and accessed **across multiple chats** to minimize lag and reduce message overload. Whenever progress is made in any chat, the progress tracker should be updated immediately to keep all information synchronized.
+
+When reading or updating these documents, ChatGPT will recognize their cross-chat nature and ensure continuity, no matter the chat you are using.
+
+**EPR (Ethical Purpose Rating) and ASR (Analytical Skill Rating) are only updated in Clarity Warfare training sessions. Progress in other trainings or courses will not affect these ratings.**
+
+**ChatGPT will notify you whenever it updates any of these documents.**
+**If ChatGPT generates a new document, ChatGPT will also add it to the \`Master Document Index\\`**
+
+**Engineering Reality I – Progress Tracker**
+ENGR-REALITY-TRACKER-001-OAKLOG
+
+---
+
+### 📉 Student: oaklog
+
+### 📚 Course: Engineering Reality I – Foundations of Matter, Motion, and Materials
+
+---
+
+### 🔄 Status Overview:
+
+| Unit | Title                          | Completion    | Quiz Score | Build Completed | Notes |
+| ---- | ------------------------------ | ------------- | ---------- | --------------- | ----- |
+| 1    | Matter & Charge                | ❌ Not Started | —          | —               | —     |
+| 2    | Reactions & Energy             | ❌ Locked      | —          | —               | —     |
+| 3    | Material Types & Bonds         | ❌ Locked      | —          | —               | —     |
+| 4    | Forces & Mechanisms            | ❌ Locked      | —          | —               | —     |
+| 5    | Thermal & Electrical Control   | ❌ Locked      | —          | —               | —     |
+| 6    | Prototyping Systems            | ❌ Locked      | —          | —               | —     |
+| 7    | Creative Engineering Challenge | ❌ Locked      | —          | —               | —     |
+
+---
+
+### ✨ Achievements:
+
+*
+
+---
+
+Type "Begin Unit 1 Lesson 1" when you're ready to start the course.
